@@ -1,6 +1,6 @@
 ### Hi there, I'm Rudreshwar! 👋
 
-- 🌱 I’m currently learning React & Redux
+- 🌱 I’m currently learning Java
 - 💬 Ask me about HTML, CSS, JS, Testing, Selenium Automation
 - 📫 How to reach me: 
 [Twitter](https://twitter.com/RudreshwarJha), [linkedin](https://www.linkedin.com/in/rudreshwar-jha-69a722154/)

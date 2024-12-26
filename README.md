@@ -1,7 +1,7 @@
 ### Hi there, I'm Rudreshwar! 👋
 
 - 🌱 I’m currently learning Java and Selenium
-- 💬 Ask me about Manual Testing, Selenium , HTML, CSS, Python
+- 💬 Ask me about Software Testing, Selenium , HTML, CSS, Python
 - 📫 How to reach me: 
 [Twitter](https://twitter.com/RudreshwarJha), [linkedin](https://www.linkedin.com/in/rudreshwar-jha-69a722154/)
 ___
